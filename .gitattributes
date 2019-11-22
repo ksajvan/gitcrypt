@@ -1,2 +1,2 @@
 secretfile filter=git-crypt diff=git-crypt
-src/main/resources/certificates-dev/dev.properties filter=git-crypt diff=git-crypt
+src/main/resources/certificates-dev/* filter=git-crypt diff=git-crypt
